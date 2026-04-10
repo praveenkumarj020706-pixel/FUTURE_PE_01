@@ -1,41 +1,43 @@
 # Task 1: AI Website Content Generator
 
 ## 🔹 Business Type:
-Beauty Salon & Digital Marketing Agency
+Online Fitness Coaching + Digital Marketing Agency
 
 ## 🔹 Prompt Used:
 Write a professional homepage website content for a local business.
 
 Include:
 - A catchy headline  
-- A short introduction  
+- A clear introduction  
 - Services offered  
 - Why choose us  
 - A strong call-to-action  
 
-Make the tone simple, engaging, and human-like.
+Keep the tone simple, engaging, and customer-focused.
 
 ---
 
 ## 🔹 Output:
 
-### 🌸 Glow Beauty Salon
+### 💪 FitLife Online Coaching
 
-💅 **Glow Beauty Salon – Look Good, Feel Confident**
+🔥 **Transform Your Body. Build Your Confidence. Stay Fit Anytime.**
 
-At Glow Beauty Salon, we believe beauty is about confidence. Our services are designed to help you feel relaxed, refreshed, and confident.
+At FitLife Online Coaching, we help you achieve your fitness goals from the comfort of your home. Whether you want to lose weight, build muscle, or stay active, our programs are designed to guide you step by step.
 
 ### Our Services:
-- Haircut & Styling  
-- Facial & Skincare  
-- Makeup  
+- Personal Fitness Training Plans  
+- Weight Loss Programs  
+- Strength & Muscle Building  
+- Diet & Nutrition Guidance  
 
 ### Why Choose Us:
-- Friendly and experienced staff  
-- Clean and comfortable environment  
-- Personalized service  
+- Certified and experienced trainers  
+- Flexible online coaching  
+- Personalized workout plans  
+- Continuous support and motivation  
 
-📞 **Book your appointment today and feel the difference!**
+📞 **Join today and start your fitness journey with us!**
 
 ---
 
@@ -43,7 +45,7 @@ At Glow Beauty Salon, we believe beauty is about confidence. Our services are de
 
 📈 **Grow Your Business with Smart Digital Solutions**
 
-At GrowthSpark, we help businesses grow online with simple and effective digital marketing strategies.
+At GrowthSpark, we help businesses build a strong online presence and reach the right audience through effective digital strategies.
 
 ### Our Services:
 - Social Media Marketing  
@@ -60,6 +62,13 @@ At GrowthSpark, we help businesses grow online with simple and effective digital
 ---
 
 ## 🔹 Explanation:
-This task demonstrates how AI can generate website content for different businesses using structured prompts.
+This task demonstrates how AI can generate website content for different business types using structured prompts.
 
-The content is simple, clear, and suitable for real-world use.
+The content includes both a fitness-based service and a digital business, showing flexibility in tone and writing style.
+
+The goal was to create simple, engaging, and real-world usable website content.
+
+---
+
+## 🔹 Deliverable:
+Complete AI-generated website content including homepage, services, and CTA for multiple business types.
